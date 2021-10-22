@@ -6,8 +6,11 @@
 
 ###  下载地址
 
+https://www.qskg.pro
 
 ###  社区支持
+
+
 
 ###  功能特点
 支持Windows和Linux
